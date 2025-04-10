@@ -1,0 +1,17 @@
+.str-video__container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .str-video__participant-list {
+    flex-grow: 1;
+    min-height: 0;
+  }
+  
+  .str-video__call-controls {
+    padding: 16px;
+  }
+  
+  
